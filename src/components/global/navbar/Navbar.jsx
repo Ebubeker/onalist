@@ -50,7 +50,7 @@ const Navbar = () => {
             </Login>}
           </Menu>
           :
-          <FontAwesomeIcon icon={faBars}/>
+          <FontAwesomeIcon style={{fontSize: '25px'}} icon={faBars}/>
         }
       </Nav>
 

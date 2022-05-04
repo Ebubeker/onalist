@@ -21,3 +21,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (max-width: 863px) {
+  .container{
+    width: 90%;
+    margin: 0 auto;
+  }
+}
